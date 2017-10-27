@@ -4,6 +4,21 @@
   <meta charset="utf-8">
   <title>VueJS: Hello, world!</title>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <style>
+   body{
+    font-family:arial,verdana,sans-serif;
+    text-align:center;
+   }
+   #idCopyrightMessage{
+    background:black;
+    color:white;
+    font-weight:bold;
+   }
+   .clsDateTimeStamp{
+    color:red;
+    font-style:italic;
+   }
+  </style>
  </head>
  <body>
   <div id="page-content">
@@ -17,15 +32,15 @@
     data:{
      header: "<h1>Paul Ramnora Web Site</h1>",
        main: "<h2>Netifly</h2>"
-           + "<p><i>SAT 28TH OCT 2017 00.15</i></p>"
-           + "<p>Just joined: <a href='http://www.netlify.com'>Netlifly</a>; a FREE site hosting service."
-           +  "<br>(You can sign up/sign in using <a href='http://www.github.com'>GitHub</a>.</p>"
-           +  "<p>You simply create a 'new' folder repository on GitHub/(or else, link to an old folder, instead);"
-           +  "then, inside of your online Netlify a/c.; link to the GitHub folder/files;"
-           +  "and, Hey Presto, you are automatically given a link, which allows your site to display...!</p>"
+           + "<p class='clsDateTimeStamp'>SAT 28TH OCT 2017 00.15 AM GMT</p>"
+           + "<p>Just joined: <a href='http://www.netlify.com'>Netlifly</a>; a FREE site hosting service. "
+           +  "(You can both 'sign up/sign in' using <a href='http://www.github.com'>GitHub</a>.</p>"
+           +  "<p>1. You simply create a 'new' folder repository on GitHub/(or else, link to an 'old' folder, instead);"
+           +  "<br>2. then, inside of your online Netlify a/c.; link to the GitHub folder/files: [index.html]/-etc.</p>"
+           +  "...and, Hey Presto!, you are automatically given an internet link; which allows your site to <i>display</i>...!</p>"
            +  "<p>Frankly, I can hardly even believe just how simple, quick and easy this is;"
-           +  "because I always wanted to be able to see my web page code up and working inside of GitHub.</p>",
-     footer: "<b>&copy;2017, Mr. Paul Ramnora./All rights reserved.</b>"
+           +  "<br>because I always wanted to be able to see my web page code up and working inside of GitHub, immediately, straight away.</p>",
+     footer: "<p><span id='idCopyrightMessage'>&copy;2017, Mr. Paul Ramnora./All rights reserved.</span></p>"
     }
    })
   </script>
