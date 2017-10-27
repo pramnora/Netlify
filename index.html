@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title>VueJS: Hello, world!</title>
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+ </head>
+ <body>
+  <div id="page-content">
+   <div v-html="header"></div>
+   <div v-html="main"></div>
+   <div v-html="footer"></div>
+  </div>
+  <script>
+   myApp = new Vue({
+    el:"#page-content",
+    data:{
+     header: "<h1>Heading</h1>",
+       main: "<h2>Sub-heading</h2>"
+           + "<p>This is a sentence.</p>",
+     footer: "<b>&copy;2017</b>"
+    }
+   })
+  </script>
+ </body>
+</html>
