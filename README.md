@@ -37,3 +37,5 @@ Netlify
 
 Launch Your FREE, Fast Website with Netlify - Step-by-Step Guide  
 - https://www.youtube.com/watch?v=CSwoCvd4QIc&t=1806s  
+(NOTE: The above video also teaches: Hugo/Markdown/Netlify/GitHub/GitBash/-etc.)  
+
