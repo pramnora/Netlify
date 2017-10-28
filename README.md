@@ -36,4 +36,4 @@ Netlify
 ## Video Tutorials...
 
 Launch Your FREE, Fast Website with Netlify - Step-by-Step Guide  
-https://www.youtube.com/watch?v=CSwoCvd4QIc&t=1806s  
+- https://www.youtube.com/watch?v=CSwoCvd4QIc&t=1806s  
