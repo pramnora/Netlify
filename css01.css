@@ -5,6 +5,17 @@
    UPDATED: 281017 03:04 AM GMT
 */
 
+/* Links */
+
+a:link{
+ text-decoration:none;
+}
+
+a:hover{
+ text-decoration:underline;
+ color:red;
+}
+
 /* Main */
 
 body{
@@ -14,11 +25,20 @@ body{
 
 /* ID's */
 
+#idPaulRamnora,#idWebSite{
+ padding:20px;
+}
+
 #idCopyrightMessage{
-    background:black;
+    background-color:black;
     color:white;
     font-weight:bold;
 }
+
+#idH1,#idCopyrightMessage{
+ padding:5px;
+}
+
 
 /* Classes */
    
