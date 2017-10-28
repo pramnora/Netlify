@@ -5,7 +5,7 @@ My Netlify sites
 
 ## Why I chose to go sign up for the FREE online Netlify service?
 
-GitHub, is a truly 'great' service; especially, when it comes to storing lots of 'source code'.  
+GitHub, is a truly 'great' service; especially, when it comes to storing lots and lots of 'source code'.  
 
 However, most of the time, I wish to see that source code being displayed in actual 'action';  
 which GitHub doesn't allow me to do; and, this is where using  
@@ -15,10 +15,10 @@ You can use a mixture of both: GitHub/Netlify...to both host source code/display
 in fact, you can actually 'sign up/sign in' to Netlify by using your same GitHub credentials.  
 
 Basically, once you've already gone and created a Netlify a/c.; (and, are also a member of GitHub);  
-1. then, you simply sign in to Netlify    
-2. select the GitHub folder where you wish to see web pages displayed         
-3. and, Netlify automatically produce an internet 'link' 
-   that you can click on to see your web pages in action 'live'.  
+1. then, you simply sign in to Netlify (use GitHub credentials to sign in if you wish)     
+2. select the GitHub folder (where you have your web page files)             
+3. and, the Netlify service will, automatically, produce an internet 'link'...   
+   that you can click on to see your GitHub based web pages in action 'live'.  
 
 -----
 
