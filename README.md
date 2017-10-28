@@ -24,7 +24,7 @@ Basically, once you've already gone and created a Netlify a/c.; (and, are also a
 
 ## Links...
 
-GitHub, FREE personal web site hosting service:     
+GitHub, FREE personal web site hosting service/(can be used as an alternative to, Netlify)     
 - http://www.github.io  
 
 Netlify  
