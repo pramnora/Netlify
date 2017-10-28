@@ -1,22 +1,40 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en">
  <head>
   <meta charset="utf-8">
-  <title>Paul Ramnora Web Site: Page 1</title> 
+  <meta name="description" content="Paul Ramnora Web Site, hosted by both: GitHub/Netlify">
+  <meta name="keywords" content="Ramnora,Paul Ramnora,pramnora,personal web site">
+  <title>Paul Ramnora Web Site, Test page: [page1.html]</title>
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <link rel="stylesheet" type="text/css" href="css01.css">
  </head>
  <body>
-  <nav>
-   <p>
-    <a href="index.html">Home</a></p> 
-    |
-    <a href="page1.html">Page 1</a></p> 
-    |
-    <a href="page2.html">Page 2</a></p> 
-   </p>    
-  </nav>
-  <h1>Page 1</h1>
-  <p>Just testing...</p>
+  <div id="page-content">
+   <nav>
+    <p>
+     <a href="index.html">Home</a> 
+     |
+     <a href="page1.html">Page 1</a> 
+     | 
+     <a href="page2.html">Page 2</a>
+    </p>
+   </nav>
+   <div v-html="header"></div>
+   <div v-html="main"></div>
+   <div v-html="footer"></div>
+  </div>
+  <script>
+   myApp = new Vue({
+    el:"#page-content",
+    data:{
+     header: "<h1>Paul Ramnora Web Site</h1>",
+       main: "<h2>Page 1</h2>"
+           + "<p class='clsDateTimeStamp'>SAT 28TH OCT 2017 03.10 AM GMT</p>"
+           + "<p>Just testing...</p>",
+     footer: "<p><span id='idCopyrightMessage'>&copy;2017, Mr. Paul Ramnora./All rights reserved.</span>"
+           + "<br>Site host: <a href='http://www.github.com'>GitHub</a>/<a href='http://www.netlify.com'>Netlify</a></p>"
+    }
+   })
+  </script>
  </body>
 </html>
-
