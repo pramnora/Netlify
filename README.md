@@ -3,20 +3,22 @@ My Netlify sites
 
 -----
 
-## Why sign up for the FREE Netlify service?
+## Why I chose to go sign up for the FREE online Netlify service?
 
-GitHub is a great service...in that it allows one to store lots of code.  
+GitHub, is a truly 'great' service; especially, when it comes to storing lots of 'source code'.  
 
-The only problem is that you cannot always see that code being displayed in actual 'action';     
-but, instead, all you see is just merely 'static' source code text, alone.  
+However, most of the time, I wish to see that source code being displayed in actual 'action';  
+which GitHub doesn't allow me to do; and, this is where using  
+a FREE online web site hosting service such as, Netlify, comes in.  
 
-That's why I decided to go sign up for a FREE online a/c. at: Netlify;   
-you can both 'sign up/sign in' using your same GitHub credentials.  
+You can use a mixture of both: GitHub/Netlify...to both host source code/display web pages;      
+in fact, you can actually 'sign up/sign in' to Netlify by using your same GitHub credentials.  
 
 Basically, once you've already gone and created a Netlify a/c.; (and, are also a member of GitHub);  
-1. then, you simply sign in to Netlify...  
-2. select your GitHub folder     
-3. and, Netlify automatically produce an internet 'link' you can click on to see your web pages in action 'live'.  
+1. then, you simply sign in to Netlify    
+2. select the GitHub folder where you wish to see web pages displayed         
+3. and, Netlify automatically produce an internet 'link' 
+   that you can click on to see your web pages in action 'live'.  
 
 -----
 
