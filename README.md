@@ -16,7 +16,7 @@ in fact, you can actually 'sign up/sign in' to Netlify by using your same GitHub
 
 Basically, once you've already gone and created a Netlify a/c.; (and, are also a member of GitHub);  
 1. then, you simply sign in to Netlify (use GitHub credentials to sign in if you wish)     
-2. select the GitHub folder (where you have your web page files)             
+2. select the GitHub folder (where you have your web page files source code)             
 3. and, the Netlify service will, automatically, produce an internet 'link'...   
    that you can click on to see your GitHub based web pages in action 'live'.  
 
