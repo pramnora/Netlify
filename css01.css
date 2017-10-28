@@ -1,0 +1,28 @@
+/* Stylesheet for: Paul Ramnora Web Site
+        Hosted by: GitHub/Netlify 
+
+   CREATED: 281017 03:04 AM GMT
+   UPDATED: 281017 03:04 AM GMT
+*/
+
+/* Main */
+
+body{
+    font-family:arial,verdana,sans-serif;
+    text-align:center;
+}
+
+/* ID's */
+
+#idCopyrightMessage{
+    background:black;
+    color:white;
+    font-weight:bold;
+}
+
+/* Classes */
+   
+.clsDateTimeStamp{
+    color:red;
+    font-style:italic;
+}
