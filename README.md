@@ -33,4 +33,7 @@ GitHub, FREE personal web site hosting service/(can be used as an alternative to
 Netlify  
 - http://www.netlify.com  
 
+## Video Tutorials...
 
+Launch Your FREE, Fast Website with Netlify - Step-by-Step Guide  
+https://www.youtube.com/watch?v=CSwoCvd4QIc&t=1806s  
