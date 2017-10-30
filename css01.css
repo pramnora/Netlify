@@ -2,8 +2,38 @@
         Hosted by: GitHub/Netlify 
 
    CREATED: 281017 03:04 AM GMT
-   UPDATED: 281017 03:04 AM GMT
+   UPDATED: 291017 03:11 AM GMT
 */
+
+/* Nav */
+
+nav{
+ margin-top:30px;
+}
+
+nav a{
+ background-color:black;
+ color:white;
+ padding:16px;
+ text-decoration:none;
+ border:1px solid yellow;
+}
+
+nav a#selected{
+ background-color:red;
+ color:white;
+ padding:16px;
+ text-decoration:none;
+ border:2px solid black;
+ font-weight:bold;
+}
+
+nav a:hover{
+ background-color:grey;
+ color:white;
+ text-decoration:none;
+ border:1px solid red;
+}
 
 /* Links */
 
