@@ -19,6 +19,8 @@ Basically, once you've already gone and created a Netlify a/c.; (and, are also a
 2. select the GitHub folder (where you have your web page files source code)             
 3. and, the Netlify service will, automatically, produce an internet 'link'...   
    that you can click on to see your GitHub based web pages in action 'live'.  
+
+-> https://security-administrator-sheep-16127.netlify.com
    
 Netlify, also, has many other services including 'paid for'...such as, buying Domain Name/SSL/-etc.;        
 however, I decided just to sign up for the FREE a/c., instead.  
