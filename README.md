@@ -15,11 +15,11 @@ You can use a mixture of both: GitHub/Netlify...to both host source code/display
 in fact, you can actually 'sign up/sign in' to Netlify by using your same GitHub credentials.  
 
 Basically, once you've already gone and created a Netlify a/c...      
-1. Create inside of the GitHub foder directory you wish to link to an [index.html] file/together with links to each file you wish to show.
-2. Sign in to Netlify (use GitHub credentials to sign in if you wish).     
-3. Select the GitHub folder (where you have your web page files source code).  
-4. The Netlify service will, then, automatically, produce an internet 'link'...     
-   that you can click on to see your GitHub based web pages in action 'live'.  
+1. First, create inside of the GitHub folder directory you wish to link to an [index.html] file/together with links to each file you wish to see displayed.
+2. Next, sign in to Netlify (use GitHub credentials to sign in if you wish).     
+3. From inside of Netlify, select the GitHub folder (where you have your web page files source code).  
+4. The Netlify service will next produce an internet 'link'...         
+   that displays your GitHub [index.html] file together with its links.  
 
 -> https://security-administrator-sheep-16127.netlify.com
    
