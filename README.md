@@ -21,7 +21,10 @@ Basically, once you've already gone and created a Netlify a/c...
 4. The Netlify service will next produce an internet 'link'...         
    that displays your GitHub [index.html] file together with its links.  
 
+Some examples are:-  
+
 -> https://security-administrator-sheep-16127.netlify.com
+-> https://wonderful-booth-2739ea.netlify.com
    
 Netlify, also, has many other services including 'paid for'...such as, buying Domain Name/SSL/-etc.;        
 however, I decided just to sign up for the FREE a/c., instead.  
