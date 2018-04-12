@@ -23,8 +23,8 @@ Basically, once you've already gone and created a Netlify a/c...
 
 Some examples are:-  
 
--> https://security-administrator-sheep-16127.netlify.com  
--> https://wonderful-booth-2739ea.netlify.com
+-> https://security-administrator-sheep-16127.netlify.com  (simple 3 page web site)  
+-> https://wonderful-booth-2739ea.netlify.com (vue-js codes)  
    
 Netlify, also, has many other services including 'paid for'...such as, buying Domain Name/SSL/-etc.;        
 however, I decided just to sign up for the FREE a/c., instead.  
