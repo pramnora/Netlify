@@ -23,6 +23,7 @@ Basically, once you've already gone and created a Netlify a/c...
 
 Some examples are:-  
 
+-> paulramnora.netlify.com  
 -> https://security-administrator-sheep-16127.netlify.com  (simple 3 page web site)  
 -> https://wonderful-booth-2739ea.netlify.com (vue-js codes)    
 -> https://modest-volhard-214034.netlify.com/ (css codes)  
