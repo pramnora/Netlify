@@ -5,8 +5,12 @@ My Netlify sites
 
 ## Why use GitHub/Netlify?
 
-- GitHub, is used to store 'source code'  
-- Netlify, is used to deploy web sites/(so, you can witness seeing the source code in actual action, ie. view the web page 'output')  
+- GitHub, is used to store 'static' source codes    
+  (you will see only just plain text files)  
+   
+- Netlify, is used to deploy web sites 'live'...;      
+  so, that you can both 'view/interact' with that web site...;      
+  simply, by typing in the site URL address into your web browser.  
 
 Of course, you will need to sign up with both services in order to use them either alone/or else, in conjunction together.
 
