@@ -10,7 +10,7 @@ My Netlify sites
    
 - Netlify, is used to deploy web sites 'live'...;      
   so, that you can both 'view/interact' with that web site...;      
-  simply, by typing in the site URL address into your web browser.  
+  simply, by typing  the site URL address into your web browser.  
 
 Of course, you will need to sign up with both services in order to use them either alone/or else, in conjunction together.
 
