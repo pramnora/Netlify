@@ -10,7 +10,7 @@ My Netlify sites
 
 Of course, you will need to sign up with both services in order to use them either alone/or else, in conjunction together.
 
-## How to use Netlify on it's own?
+## How to use Netlify on it's own? (Without GithHub)
 
 After you've gone and signed up for a Netlify online a/c.; and, are already signed into the a/c. 
 
