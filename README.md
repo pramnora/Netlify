@@ -58,9 +58,13 @@ Netlify
 Netlify CMS/Content Management System    
 - https://www.netlifycms.org/  
 
-## Video Tutorials...
+## YouTube Video Tutorials...
 
 Launch Your FREE, Fast Website with Netlify - Step-by-Step Guide  
 - https://www.youtube.com/watch?v=CSwoCvd4QIc&t=1806s  
 (NOTE: The above video also teaches: Hugo/Markdown/Netlify/GitHub/GitBash/-etc.)  
+
+Deploy Websites In Seconds With Netlify - (YouTube Channel: Brad Traversey)  
+- https://www.youtube.com/watch?v=bjVUqvcCnxM  
+(NOTE: The above video teaches: Netlify Forms/Netlify-CLI deployment/-etc.)  
 
