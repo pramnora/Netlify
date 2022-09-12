@@ -66,7 +66,7 @@ to both view/administer the site.
 
 -----
 
-## How to use Netlify in conjunction with GitHub?
+## 3> How to use Netlify in conjunction with GitHub?
 
 1. First, create inside of the GitHub folder directory you wish to link to an [index.html] file/together with links to each file you wish to see displayed.
 2. Next, sign in to Netlify (use GitHub credentials to sign in if you wish).     
