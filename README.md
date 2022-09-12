@@ -16,7 +16,7 @@ Of course, you will need to sign up with both services in order to use them eith
 
 -----
 
-## 1> How to use Netlify on it's own? Deployment method: drag and drop  
+## 1> Netlify Deployment method: drag and drop - (uses only Netlify/and, no GitHub)   
 
 After you've gone and signed up for a Netlify online a/c.; and, are already signed into the a/c. 
 
@@ -30,7 +30,7 @@ you are, then, given a FREE URL address to go and view it.
 
 -----
 
-## 2> How to use Netlify on it's own? Deployment method: Netlify-cli    
+## 2> Netlify Deployment method: Netlify-cli - (uses only Netlify/and, no GitHub)     
 
 First, create a folder by giving it a name:   
 
@@ -66,13 +66,21 @@ to both view/administer the site.
 
 -----
 
-## 3> How to use Netlify in conjunction with GitHub?
+## 3> Netlify deployment method: Netlify/GitHub - (used in conjunction together)  
 
-1. First, create inside of the GitHub folder directory you wish to link to an [index.html] file/together with links to each file you wish to see displayed.
-2. Next, sign in to Netlify (use GitHub credentials to sign in if you wish).     
-3. From inside of Netlify, select the GitHub folder (where you have your web page files source code/plus, [index.html] file).  
-4. The Netlify service will next produce an internet 'link'...         
-   that displays your GitHub [index.html] file together with its links.  
+1. First, create inside of the GitHub folder directory you wish to link to an [index.html] file  
+2. Next, sign in to Netlify/(you can use GitHub credentials to sign into the Netlify service)       
+4. From inside of Netlify, select the GitHub folder (where you have your main web page [index.html] file)    
+5. The Netlify service will next produce an internet URL 'link'...;               
+   which displays your GitHub [index.html] file inside of your web browser.     
+
+-----
+
+## 4> Netlify CMS/Content Management System  
+
+- https://www.netlifycms.org/  
+
+-(This section is still to come...)- 
 
 -----
 
