@@ -116,3 +116,9 @@ Deploy Websites In Seconds With Netlify - (YouTube Channel: Brad Traversey)
 - https://www.youtube.com/watch?v=bjVUqvcCnxM  
 (NOTE: The above video teaches: Netlify Forms/Netlify-CLI deployment/-etc.)  
 
+Netlify Tutorial - How to build and deploy websites using Netlify - (YouTube Channel: FreeCodeCamp.org)    
+- https://www.youtube.com/watch?v=p6h-rYSVX90&t=27s  
+
+
+
+
