@@ -18,15 +18,20 @@ Of course, you will need to sign up with both services in order to use them eith
 
 ## 1> Netlify Deployment method: drag and drop - (uses only Netlify/and, no GitHub)   
 
-After you've gone and signed up for a Netlify online a/c.; and, are already signed into the a/c. 
+After you've gone and signed up for a Netlify online a/c.;   
+and, are already signed into the a/c. 
 
-You simply 'drag and drop' a folder onto the Netlify user interface;   
-and, your site/web page/s are, automatically, deployed (this process, usually, takes just merely seconds);    
+You simply 'drag and drop' a folder/  
+which contains an [index.html] page...;  
+onto the Netlify user interface;   
+and, your site/web page/s are, automatically, deployed   
+(this process, usually, takes just merely seconds);    
 you are, then, given a FREE URL address to go and view it.  
 
 - https://paulramnora.netlify.com  
 
-**NOTE:** It's possible to change the prefix name: 'paulramnora' part of the URL address by going into Netlify: [Settings] > Change name.  
+**NOTE:** It's possible to change the prefix name: 'paulramnora' part of the URL address by going into Netlify:     
+[Settings] > Change name.  
 
 -----
 
@@ -56,7 +61,7 @@ Eventually, you will be given a 'preview' web site to go and see;
 view this inside of your web browser if you wish.  
 Finally, if you feel you are satisifed with what you see; then,...
 
-> C:NCTest>npm deploy --prod
+> C:\NCTest>npm deploy --prod
 
 ...will create the web site in full production.   
 When done you will be given 2 Netlify web site URL's   
