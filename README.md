@@ -10,7 +10,9 @@ My Netlify sites
 
 Of course, you will need to sign up with both services in order to use them either alone/or else, in conjunction together.
 
-## How to use Netlify on it's own? (Without GithHub)
+-----
+
+## 1> How to use Netlify on it's own? Deployment method: drag and drop  
 
 After you've gone and signed up for a Netlify online a/c.; and, are already signed into the a/c. 
 
@@ -18,9 +20,47 @@ You simply 'drag and drop' a folder onto the Netlify user interface;
 and, your site/web page/s are, automatically, deployed (this process, usually, takes just merely seconds);    
 you are, then, given a FREE URL address to go and view it.  
 
-https://paulramnora.netlify.com  
+- https://paulramnora.netlify.com  
 
-*NOTE:* It's possible to change the prefix name: 'paulramnora' part of the URL address by going into Netlify: [Settings] > Change name.  
+**NOTE:** It's possible to change the prefix name: 'paulramnora' part of the URL address by going into Netlify: [Settings] > Change name.  
+
+-----
+
+## 2> How to use Netlify on it's own? Deployment method: Netlify-cli    
+
+First, create a folder by giving it a name:   
+
+> NCTest  
+
+Second, make sure to include an: [index.html] web page file inside of the named folder:   
+
+> NCTest/index.html  
+
+Now, run a DOS Command Prompt window inside of the named folder:  
+
+> C:\NCTest>  
+
+And, type in the following command...    
+
+> C:\NCTest>npm i -g netlify-cli  
+
+...this will set up Netlify-cli to run on your own computer operating system.  
+You will be prompted to answer certain questions...;  
+continue following each of the prompts through until the end.  
+
+Eventually, you will be given a 'preview' web site to go and see;   
+view this inside of your web browser if you wish.  
+Finally, if you feel you are satisifed with what you see; then,...
+
+> C:NCTest>npm deploy --prod
+
+...will create the web site in full production.   
+When done you will be given 2 Netlify web site URL's   
+to both view/administer the site.  
+
+- https://pr-netlify-cli-01.netlify.app/
+
+-----
 
 ## How to use Netlify in conjunction with GitHub?
 
@@ -30,20 +70,11 @@ https://paulramnora.netlify.com
 4. The Netlify service will next produce an internet 'link'...         
    that displays your GitHub [index.html] file together with its links.  
 
-Some examples are:-  
+-----
 
-Deployment method: 'Drag and drop'...    
--> https://paulramnora.netlify.com  
-...this is my main Netlify web site that is currently stored inside of a folder on my computer desktop; but, not on Github itself.  
-
-Deployment method: 'created an [index.html] page...; then, uploaded this into the appropriate GitHub folder depository...  
--> https://security-administrator-sheep-16127.netlify.com  (simple 3 page web site)  
--> https://wonderful-booth-2739ea.netlify.com (vue-js codes)    
--> https://modest-volhard-214034.netlify.com/ (css codes)  
-   
+**NOTE**: I only signed up for a FREE Netlify a/c.; with no special services added on.    
 Netlify, also, has many other services including 'paid for'...such as, buying Domain Name/SSL/forms/-etc.;   
-I haven't actually checked out all that the Netlify service can do, yet...?  
-*NOTE*: I only signed up for a FREE Netlify a/c.; with no special services added on.    
+I still haven't actually checked out all that the Netlify service can do, yet...?  
 
 -----
 
